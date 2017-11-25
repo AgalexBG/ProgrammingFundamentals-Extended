@@ -1,0 +1,5 @@
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\DataTypesMethods-Exercise\Poke Mon\bin\Debug\Poke Mon.exe.config
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\DataTypesMethods-Exercise\Poke Mon\bin\Debug\Poke Mon.exe
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\DataTypesMethods-Exercise\Poke Mon\bin\Debug\Poke Mon.pdb
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\DataTypesMethods-Exercise\Poke Mon\obj\Debug\Poke Mon.exe
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\DataTypesMethods-Exercise\Poke Mon\obj\Debug\Poke Mon.pdb

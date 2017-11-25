@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anonymous Threat", "Anonymous Threat\Anonymous Threat.csproj", "{0900EB36-30B3-4BE2-9E50-8AA73C821399}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Icarus", "Icarus\Icarus.csproj", "{45519525-9D4E-413E-BF54-F01D308A5A37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokemonDon'tGo", "PokemonDon'tGo\PokemonDon'tGo.csproj", "{2AAB2434-82B4-4EF2-BE8D-25404925BA78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0900EB36-30B3-4BE2-9E50-8AA73C821399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0900EB36-30B3-4BE2-9E50-8AA73C821399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0900EB36-30B3-4BE2-9E50-8AA73C821399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0900EB36-30B3-4BE2-9E50-8AA73C821399}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45519525-9D4E-413E-BF54-F01D308A5A37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45519525-9D4E-413E-BF54-F01D308A5A37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45519525-9D4E-413E-BF54-F01D308A5A37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45519525-9D4E-413E-BF54-F01D308A5A37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AAB2434-82B4-4EF2-BE8D-25404925BA78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AAB2434-82B4-4EF2-BE8D-25404925BA78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AAB2434-82B4-4EF2-BE8D-25404925BA78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AAB2434-82B4-4EF2-BE8D-25404925BA78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

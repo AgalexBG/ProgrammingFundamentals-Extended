@@ -1,0 +1,5 @@
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\ArraysAndListsExercise\Icarus\bin\Debug\Icarus.exe.config
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\ArraysAndListsExercise\Icarus\bin\Debug\Icarus.exe
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\ArraysAndListsExercise\Icarus\bin\Debug\Icarus.pdb
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\ArraysAndListsExercise\Icarus\obj\Debug\Icarus.exe
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\ArraysAndListsExercise\Icarus\obj\Debug\Icarus.pdb

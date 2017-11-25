@@ -1,0 +1,6 @@
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\StringsAndRegex-Exercise\HornetComm\bin\Debug\HornetComm.exe.config
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\StringsAndRegex-Exercise\HornetComm\bin\Debug\HornetComm.exe
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\StringsAndRegex-Exercise\HornetComm\bin\Debug\HornetComm.pdb
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\StringsAndRegex-Exercise\HornetComm\obj\Debug\HornetComm.csprojResolveAssemblyReference.cache
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\StringsAndRegex-Exercise\HornetComm\obj\Debug\HornetComm.exe
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\StringsAndRegex-Exercise\HornetComm\obj\Debug\HornetComm.pdb

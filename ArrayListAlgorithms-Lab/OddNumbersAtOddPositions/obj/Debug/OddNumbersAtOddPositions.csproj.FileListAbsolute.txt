@@ -1,0 +1,5 @@
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\ArrayListAlgorithms-Lab\OddNumbersAtOddPositions\bin\Debug\OddNumbersAtOddPositions.exe.config
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\ArrayListAlgorithms-Lab\OddNumbersAtOddPositions\bin\Debug\OddNumbersAtOddPositions.exe
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\ArrayListAlgorithms-Lab\OddNumbersAtOddPositions\bin\Debug\OddNumbersAtOddPositions.pdb
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\ArrayListAlgorithms-Lab\OddNumbersAtOddPositions\obj\Debug\OddNumbersAtOddPositions.exe
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\ArrayListAlgorithms-Lab\OddNumbersAtOddPositions\obj\Debug\OddNumbersAtOddPositions.pdb

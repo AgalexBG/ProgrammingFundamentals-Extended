@@ -1,0 +1,5 @@
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\StringsAndRegex-Exercise\AnonymousVox\bin\Debug\AnonymousVox.exe.config
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\StringsAndRegex-Exercise\AnonymousVox\bin\Debug\AnonymousVox.exe
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\StringsAndRegex-Exercise\AnonymousVox\bin\Debug\AnonymousVox.pdb
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\StringsAndRegex-Exercise\AnonymousVox\obj\Debug\AnonymousVox.exe
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\StringsAndRegex-Exercise\AnonymousVox\obj\Debug\AnonymousVox.pdb

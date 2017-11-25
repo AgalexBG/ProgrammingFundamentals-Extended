@@ -1,0 +1,6 @@
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\ArraysAndListsExercise\Anonymous Threat\bin\Debug\Anonymous Threat.exe.config
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\ArraysAndListsExercise\Anonymous Threat\bin\Debug\Anonymous Threat.exe
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\ArraysAndListsExercise\Anonymous Threat\bin\Debug\Anonymous Threat.pdb
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\ArraysAndListsExercise\Anonymous Threat\obj\Debug\Anonymous Threat.csprojResolveAssemblyReference.cache
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\ArraysAndListsExercise\Anonymous Threat\obj\Debug\Anonymous Threat.exe
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\ArraysAndListsExercise\Anonymous Threat\obj\Debug\Anonymous Threat.pdb

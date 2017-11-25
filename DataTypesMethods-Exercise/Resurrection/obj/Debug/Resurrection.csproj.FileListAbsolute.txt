@@ -1,0 +1,6 @@
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\DataTypesMethods-Exercise\Resurrection\bin\Debug\Resurrection.exe.config
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\DataTypesMethods-Exercise\Resurrection\bin\Debug\Resurrection.exe
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\DataTypesMethods-Exercise\Resurrection\bin\Debug\Resurrection.pdb
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\DataTypesMethods-Exercise\Resurrection\obj\Debug\Resurrection.csprojResolveAssemblyReference.cache
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\DataTypesMethods-Exercise\Resurrection\obj\Debug\Resurrection.exe
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\DataTypesMethods-Exercise\Resurrection\obj\Debug\Resurrection.pdb

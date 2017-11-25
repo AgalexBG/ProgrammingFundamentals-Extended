@@ -1,0 +1,6 @@
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\DataTypesMethods-Exercise\AnonymousDownsite\bin\Debug\AnonymousDownsite.exe.config
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\DataTypesMethods-Exercise\AnonymousDownsite\bin\Debug\AnonymousDownsite.exe
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\DataTypesMethods-Exercise\AnonymousDownsite\bin\Debug\AnonymousDownsite.pdb
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\DataTypesMethods-Exercise\AnonymousDownsite\obj\Debug\AnonymousDownsite.csprojResolveAssemblyReference.cache
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\DataTypesMethods-Exercise\AnonymousDownsite\obj\Debug\AnonymousDownsite.exe
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\DataTypesMethods-Exercise\AnonymousDownsite\obj\Debug\AnonymousDownsite.pdb

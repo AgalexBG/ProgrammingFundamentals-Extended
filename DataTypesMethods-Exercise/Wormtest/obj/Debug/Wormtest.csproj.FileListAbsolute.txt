@@ -1,0 +1,6 @@
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\DataTypesMethods-Exercise\Wormtest\bin\Debug\Wormtest.exe.config
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\DataTypesMethods-Exercise\Wormtest\bin\Debug\Wormtest.exe
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\DataTypesMethods-Exercise\Wormtest\bin\Debug\Wormtest.pdb
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\DataTypesMethods-Exercise\Wormtest\obj\Debug\Wormtest.csprojResolveAssemblyReference.cache
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\DataTypesMethods-Exercise\Wormtest\obj\Debug\Wormtest.exe
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\DataTypesMethods-Exercise\Wormtest\obj\Debug\Wormtest.pdb

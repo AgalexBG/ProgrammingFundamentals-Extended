@@ -1,0 +1,5 @@
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\DataTypesMethods-Exercise\HornetWings\bin\Debug\HornetWings.exe.config
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\DataTypesMethods-Exercise\HornetWings\bin\Debug\HornetWings.exe
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\DataTypesMethods-Exercise\HornetWings\bin\Debug\HornetWings.pdb
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\DataTypesMethods-Exercise\HornetWings\obj\Debug\HornetWings.exe
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\DataTypesMethods-Exercise\HornetWings\obj\Debug\HornetWings.pdb

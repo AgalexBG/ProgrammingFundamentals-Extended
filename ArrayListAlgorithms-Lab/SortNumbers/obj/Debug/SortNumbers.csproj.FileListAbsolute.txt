@@ -1,0 +1,6 @@
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\ArrayListAlgorithms-Lab\SortNumbers\bin\Debug\SortNumbers.exe.config
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\ArrayListAlgorithms-Lab\SortNumbers\bin\Debug\SortNumbers.exe
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\ArrayListAlgorithms-Lab\SortNumbers\bin\Debug\SortNumbers.pdb
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\ArrayListAlgorithms-Lab\SortNumbers\obj\Debug\SortNumbers.csprojResolveAssemblyReference.cache
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\ArrayListAlgorithms-Lab\SortNumbers\obj\Debug\SortNumbers.exe
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\ArrayListAlgorithms-Lab\SortNumbers\obj\Debug\SortNumbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\StringsAndRegex-Exercise\Trainegram\bin\Debug\Trainegram.exe.config
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\StringsAndRegex-Exercise\Trainegram\bin\Debug\Trainegram.exe
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\StringsAndRegex-Exercise\Trainegram\bin\Debug\Trainegram.pdb
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\StringsAndRegex-Exercise\Trainegram\obj\Debug\Trainegram.csprojResolveAssemblyReference.cache
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\StringsAndRegex-Exercise\Trainegram\obj\Debug\Trainegram.exe
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\StringsAndRegex-Exercise\Trainegram\obj\Debug\Trainegram.pdb
