@@ -1,0 +1,6 @@
+c:\users\agale\documents\visual studio 2017\Projects\Exam Preparation II\Ladybugs\bin\Debug\Ladybugs.exe.config
+c:\users\agale\documents\visual studio 2017\Projects\Exam Preparation II\Ladybugs\bin\Debug\Ladybugs.exe
+c:\users\agale\documents\visual studio 2017\Projects\Exam Preparation II\Ladybugs\bin\Debug\Ladybugs.pdb
+c:\users\agale\documents\visual studio 2017\Projects\Exam Preparation II\Ladybugs\obj\Debug\Ladybugs.csprojResolveAssemblyReference.cache
+c:\users\agale\documents\visual studio 2017\Projects\Exam Preparation II\Ladybugs\obj\Debug\Ladybugs.exe
+c:\users\agale\documents\visual studio 2017\Projects\Exam Preparation II\Ladybugs\obj\Debug\Ladybugs.pdb

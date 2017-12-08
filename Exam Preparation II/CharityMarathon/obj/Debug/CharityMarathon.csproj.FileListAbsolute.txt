@@ -1,0 +1,6 @@
+c:\users\agale\documents\visual studio 2017\Projects\Exam Preparation II\CharityMarathon\bin\Debug\CharityMarathon.exe.config
+c:\users\agale\documents\visual studio 2017\Projects\Exam Preparation II\CharityMarathon\bin\Debug\CharityMarathon.exe
+c:\users\agale\documents\visual studio 2017\Projects\Exam Preparation II\CharityMarathon\bin\Debug\CharityMarathon.pdb
+c:\users\agale\documents\visual studio 2017\Projects\Exam Preparation II\CharityMarathon\obj\Debug\CharityMarathon.csprojResolveAssemblyReference.cache
+c:\users\agale\documents\visual studio 2017\Projects\Exam Preparation II\CharityMarathon\obj\Debug\CharityMarathon.exe
+c:\users\agale\documents\visual studio 2017\Projects\Exam Preparation II\CharityMarathon\obj\Debug\CharityMarathon.pdb
