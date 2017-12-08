@@ -1,0 +1,6 @@
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\DictionariesAndLINQ-Lab\AverageStudentGrades\bin\Debug\AverageStudentGrades.exe.config
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\DictionariesAndLINQ-Lab\AverageStudentGrades\bin\Debug\AverageStudentGrades.exe
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\DictionariesAndLINQ-Lab\AverageStudentGrades\bin\Debug\AverageStudentGrades.pdb
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\DictionariesAndLINQ-Lab\AverageStudentGrades\obj\Debug\AverageStudentGrades.csprojResolveAssemblyReference.cache
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\DictionariesAndLINQ-Lab\AverageStudentGrades\obj\Debug\AverageStudentGrades.exe
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\DictionariesAndLINQ-Lab\AverageStudentGrades\obj\Debug\AverageStudentGrades.pdb

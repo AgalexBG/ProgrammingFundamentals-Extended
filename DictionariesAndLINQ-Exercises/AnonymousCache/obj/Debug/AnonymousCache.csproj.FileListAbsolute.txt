@@ -1,0 +1,6 @@
+c:\users\agale\documents\visual studio 2017\Projects\DictionariesAndLINQ-Exercises\AnonymousCache\bin\Debug\AnonymousCache.exe.config
+c:\users\agale\documents\visual studio 2017\Projects\DictionariesAndLINQ-Exercises\AnonymousCache\bin\Debug\AnonymousCache.exe
+c:\users\agale\documents\visual studio 2017\Projects\DictionariesAndLINQ-Exercises\AnonymousCache\bin\Debug\AnonymousCache.pdb
+c:\users\agale\documents\visual studio 2017\Projects\DictionariesAndLINQ-Exercises\AnonymousCache\obj\Debug\AnonymousCache.csprojResolveAssemblyReference.cache
+c:\users\agale\documents\visual studio 2017\Projects\DictionariesAndLINQ-Exercises\AnonymousCache\obj\Debug\AnonymousCache.exe
+c:\users\agale\documents\visual studio 2017\Projects\DictionariesAndLINQ-Exercises\AnonymousCache\obj\Debug\AnonymousCache.pdb

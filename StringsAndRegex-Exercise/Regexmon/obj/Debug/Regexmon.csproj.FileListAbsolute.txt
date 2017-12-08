@@ -1,0 +1,6 @@
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\StringsAndRegex-Exercise\Regexmon\bin\Debug\Regexmon.exe.config
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\StringsAndRegex-Exercise\Regexmon\bin\Debug\Regexmon.exe
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\StringsAndRegex-Exercise\Regexmon\bin\Debug\Regexmon.pdb
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\StringsAndRegex-Exercise\Regexmon\obj\Debug\Regexmon.csprojResolveAssemblyReference.cache
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\StringsAndRegex-Exercise\Regexmon\obj\Debug\Regexmon.exe
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\StringsAndRegex-Exercise\Regexmon\obj\Debug\Regexmon.pdb

@@ -1,0 +1,6 @@
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\StringsAndRegex-Exercise\PhoenixGrid\bin\Debug\PhoenixGrid.exe.config
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\StringsAndRegex-Exercise\PhoenixGrid\bin\Debug\PhoenixGrid.exe
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\StringsAndRegex-Exercise\PhoenixGrid\bin\Debug\PhoenixGrid.pdb
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\StringsAndRegex-Exercise\PhoenixGrid\obj\Debug\PhoenixGrid.csprojResolveAssemblyReference.cache
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\StringsAndRegex-Exercise\PhoenixGrid\obj\Debug\PhoenixGrid.exe
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\StringsAndRegex-Exercise\PhoenixGrid\obj\Debug\PhoenixGrid.pdb

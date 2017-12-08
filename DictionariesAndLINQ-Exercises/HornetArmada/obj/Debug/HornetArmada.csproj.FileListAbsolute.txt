@@ -1,0 +1,5 @@
+c:\users\agale\documents\visual studio 2017\Projects\DictionariesAndLINQ-Exercises\HornetArmada\bin\Debug\HornetArmada.exe.config
+c:\users\agale\documents\visual studio 2017\Projects\DictionariesAndLINQ-Exercises\HornetArmada\bin\Debug\HornetArmada.exe
+c:\users\agale\documents\visual studio 2017\Projects\DictionariesAndLINQ-Exercises\HornetArmada\bin\Debug\HornetArmada.pdb
+c:\users\agale\documents\visual studio 2017\Projects\DictionariesAndLINQ-Exercises\HornetArmada\obj\Debug\HornetArmada.exe
+c:\users\agale\documents\visual studio 2017\Projects\DictionariesAndLINQ-Exercises\HornetArmada\obj\Debug\HornetArmada.pdb

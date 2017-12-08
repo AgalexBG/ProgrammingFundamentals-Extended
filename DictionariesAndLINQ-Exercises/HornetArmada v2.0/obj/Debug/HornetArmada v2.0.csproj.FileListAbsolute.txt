@@ -1,0 +1,6 @@
+C:\Users\agale\documents\visual studio 2017\Projects\DictionariesAndLINQ-Exercises\HornetArmada v2.0\bin\Debug\HornetArmada v2.0.exe.config
+C:\Users\agale\documents\visual studio 2017\Projects\DictionariesAndLINQ-Exercises\HornetArmada v2.0\bin\Debug\HornetArmada v2.0.exe
+C:\Users\agale\documents\visual studio 2017\Projects\DictionariesAndLINQ-Exercises\HornetArmada v2.0\bin\Debug\HornetArmada v2.0.pdb
+C:\Users\agale\documents\visual studio 2017\Projects\DictionariesAndLINQ-Exercises\HornetArmada v2.0\obj\Debug\HornetArmada v2.0.csprojResolveAssemblyReference.cache
+C:\Users\agale\documents\visual studio 2017\Projects\DictionariesAndLINQ-Exercises\HornetArmada v2.0\obj\Debug\HornetArmada v2.0.exe
+C:\Users\agale\documents\visual studio 2017\Projects\DictionariesAndLINQ-Exercises\HornetArmada v2.0\obj\Debug\HornetArmada v2.0.pdb

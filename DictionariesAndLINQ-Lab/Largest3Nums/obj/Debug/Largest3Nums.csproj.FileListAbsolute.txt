@@ -1,0 +1,5 @@
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\DictionariesAndLINQ-Lab\Largest3Nums\bin\Debug\Largest3Nums.exe.config
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\DictionariesAndLINQ-Lab\Largest3Nums\bin\Debug\Largest3Nums.exe
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\DictionariesAndLINQ-Lab\Largest3Nums\bin\Debug\Largest3Nums.pdb
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\DictionariesAndLINQ-Lab\Largest3Nums\obj\Debug\Largest3Nums.exe
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\DictionariesAndLINQ-Lab\Largest3Nums\obj\Debug\Largest3Nums.pdb

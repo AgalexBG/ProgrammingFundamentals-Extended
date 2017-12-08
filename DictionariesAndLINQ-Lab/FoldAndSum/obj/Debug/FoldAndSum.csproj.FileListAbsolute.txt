@@ -1,0 +1,5 @@
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\DictionariesAndLINQ-Lab\FoldAndSum\bin\Debug\FoldAndSum.exe.config
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\DictionariesAndLINQ-Lab\FoldAndSum\bin\Debug\FoldAndSum.exe
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\DictionariesAndLINQ-Lab\FoldAndSum\bin\Debug\FoldAndSum.pdb
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\DictionariesAndLINQ-Lab\FoldAndSum\obj\Debug\FoldAndSum.exe
+C:\Users\agale\Documents\Visual Studio 2017\Projects\ProgrammingFundamentalsExtended\DictionariesAndLINQ-Lab\FoldAndSum\obj\Debug\FoldAndSum.pdb
